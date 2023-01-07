@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is abduslam
 #### I specialize in cyber security and love programming
-https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif
-https://media.giphy.com/media/RpYuXao1pruj098LIM/giphy.gif
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oEjHECc1GftirnHZm/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/RpYuXao1pruj098LIM/giphy.gif" width="150"/>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
