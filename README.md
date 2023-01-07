@@ -26,7 +26,7 @@
   
   <h1 align="center">
         whoami
-        <img src="https://media.giphy.com/media/3eIDBeFtHy8AIQoq96/giphy.gif" width="30px"/>
+        <img src="https://media.giphy.com/media/3eIDBeFtHy8AIQoq96/giphy.gif" width="40px"/>
   </h1>
 
   <p align="center">
