@@ -24,18 +24,18 @@
     <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" height="300"/>
   </div>
   
-  <div align="center">
-      <h2>
-    Whoami
-    <img src="https://media.giphy.com/media/dCNqwy3mkOPQ090bgX/giphy.gif" width="30px"/>
-    </h2>
+    <h1 align="center">
+        hey there
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      </h1>
+
   <p align="center">
     <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
     </samp>
     <br> <br>
     <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
   </p>
-</div>
+  
   <hr>
   <div id="header" align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
