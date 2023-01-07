@@ -24,8 +24,10 @@
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" height="300"/>
 </div>
 
-<h2 align="center">   <img src="https://media.giphy.com/media/dCNqwy3mkOPQ090bgX/giphy.gif" width="30px"/>
- Whoami</h2>
+<h2 align="center">
+    <h2>
+  Whoami
+  <img src="https://media.giphy.com/media/dCNqwy3mkOPQ090bgX/giphy.gif" width="30px"/>
 <p align="center">
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
