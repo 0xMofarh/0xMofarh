@@ -30,7 +30,7 @@
   </h1>
 
   <p align="center">
-    <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+    <samp>A highly resourced computer programmer and cybersecurity professional with 3+ years of computer experience, who possesses expert knowledge of the software development life cycle and a solid understanding of the technologies required to develop and deploy highly available, scalable applications, including their networking and infrastructure.
     </samp>
     <br> <br>
   </p>
