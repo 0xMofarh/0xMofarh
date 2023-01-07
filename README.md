@@ -27,8 +27,8 @@
   <div align="center">
       <h2>
     Whoami
-      </h2>
     <img src="https://media.giphy.com/media/dCNqwy3mkOPQ090bgX/giphy.gif" width="30px"/>
+    </h2>
   <p align="center">
     <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
     </samp>
