@@ -21,8 +21,10 @@
   </h1>
   </div>
   <div align="center">
-    <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" height="300"/>
-  </div>
+  [![V0ltic's github stats](https://github-readme-stats.vercel.app/api?username=Leakirs&show_icons=true&theme=tokyonight)](https://github.com/TxL02)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leakirs&theme=tokyonight)](https://github.com/TxL02)
+    </div>
   
   <h1 align="center">
         whoami
