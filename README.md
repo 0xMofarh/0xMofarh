@@ -21,9 +21,7 @@
   </h1>
   </div>
   <div align="center">
-  [![V0ltic's github stats](https://github-readme-stats.vercel.app/api?username=Leakirs&show_icons=true&theme=tokyonight)](https://github.com/TxL02)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leakirs&theme=tokyonight)](https://github.com/TxL02)
+        <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400px" height="200px"/>
     </div>
   
   <h1 align="center">
@@ -32,7 +30,8 @@
   </h1>
 
   <p align="center">
-    <samp>A highly resourced computer programmer and cybersecurity professional with 3+ years of computer experience, who possesses expert knowledge of the software development life cycle and a solid understanding of the technologies required to develop and deploy highly available, scalable applications, including their networking and infrastructure.
+    <samp>A highly resourced computer programmer and cybersecurity professional with 3+ years of computer experience, who possesses expert knowledge of the software development life cycle and a solid understanding of the technologies required to develop and deploy highly available, scalable applications, including their networking and infrastructure.![image](https://user-images.githubusercontent.com/114863878/216349442-b1a234dc-329f-4bc6-b64e-bb002f6460ea.png)
+
     </samp>
     <br> <br>
   </p>
@@ -50,4 +49,11 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
         </div>
-  
+  <hr>
+
+<div id="header" align="center">
+ 
+  [![V0ltic's github stats](https://github-readme-stats.vercel.app/api?username=Leakirs&show_icons=true&theme=tokyonight)](https://github.com/TxL02)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leakirs&theme=tokyonight)](https://github.com/TxL02)
+</div>
