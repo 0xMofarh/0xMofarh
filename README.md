@@ -30,10 +30,10 @@
   </h1>
 
   <p align="center">
-    <samp>A highly resourced computer programmer and cybersecurity professional with 3+ years of computer experience, who possesses expert knowledge of the software development life cycle and a solid understanding of the technologies required to develop and deploy highly available, scalable applications, including their networking and infrastructure.![image](https://user-images.githubusercontent.com/114863878/216349442-b1a234dc-329f-4bc6-b64e-bb002f6460ea.png)
+    <samp>A highly resourced computer programmer and cybersecurity professional with 3+ years of computer experience, who possesses expert knowledge of the software development life cycle and a solid understanding of the technologies required to develop and deploy highly available, scalable applications, including their networking and infrastructure.
 
-    </samp>
-    <br> <br>
+<br> 
+
   </p>
 </div>
   <hr>
