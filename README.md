@@ -7,12 +7,6 @@
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Leakirs&style=flat-square&color=blue" alt=""/>
     <h1>
@@ -30,7 +24,7 @@
   </h1>
 
   <p align="center">
-    <samp>A highly resourced computer programmer and cybersecurity professional with 3+ years of computer experience, who possesses expert knowledge of the software development life cycle and a solid understanding of the technologies required to develop and deploy highly available, scalable applications, including their networking and infrastructure.
+    <samp>I work and learn however I want, nice and easy — as long as the code runs and doesn’t freeze!.
 
 <br> 
 
@@ -41,7 +35,7 @@
 <div id="header" align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<!--     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
 </div>
         <div id="header" align="center">
         <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
