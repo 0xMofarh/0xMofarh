@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Leakirs&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=0xMofarh&style=flat-square&color=blue" alt=""/>
     <h1>
     hey there
     <img src="https://media.giphy.com/media/H9VVXzT1LqDS4jDVf5/giphy.gif" width="30px"/>
